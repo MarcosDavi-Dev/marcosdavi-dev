@@ -1,6 +1,6 @@
 # Olá, sou Marcos Davi 👋 
 - ⚠ My new profile (I lose my old account MarcosDaviDev)
-- 💻 Estou atuamente estudando Análise e Desenvolvimento de Sistema na Descomplica Faculdade Digital
+- 💻 Graduado em Análise e Desenvolvimento de Sistema na Descomplica Faculdade Digital
 - 🎸Sou guitarrista e bodybuilder 💪
 - 🤘 Sou apaixonado por arte 🎭, como: filmes 🎟, séries🎞 e música 🎼
 <br>
