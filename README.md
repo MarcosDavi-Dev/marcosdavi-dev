@@ -4,13 +4,13 @@
 - 🖥 Front-End: React, Angular, Vue...
 - 💽 Back-End: SpringBoot, Docker, NodeJS...
 - 🏧 Banco de Dados: Oracle, MySQL, MongoDB, PostgreSQL...
-<br>
+<!--
 <div>
   <a href="https://github.com/marcosdavi-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosdavi-dev&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdavi-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<br>
+-->
 <div style="display: inline_block">
   ## Linguagens e Frameworks:
 
