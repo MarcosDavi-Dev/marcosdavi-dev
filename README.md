@@ -1,9 +1,9 @@
 # Olá, sou Marcos Davi 👋 
-- ⚠ My new profile (I lose my old account MarcosDaviDev)
-- 👨‍💻 Desenvolvedor Junior
-- 🖥 Front-End: React, Angular, Vue...
-- 💽 Back-End: SpringBoot, Docker, NodeJS...
-- 🏧 Banco de Dados: Oracle, MySQL, MongoDB, PostgreSQL...
+
+**Desenvolvedor Full Stack Júnior** | Graduado em Análise e Desenvolvimento de Sistemas
+📍 Brasil 
+
+Construo aplicações web do front ao back, com foco em **React** e **[Node.js / Java com Spring Boot]**.
 <!--
 <div>
   <a href="https://github.com/marcosdavi-dev">
@@ -12,7 +12,8 @@
 </div>
 -->
 <div style="display: inline_block">
-  ## Linguagens e Frameworks:
+  
+<!-- ## Linguagens e Frameworks:
 
   - Linguagens:
     <p>
@@ -41,13 +42,26 @@
       <img align="center" alt="Davi-MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
       <img align="center" alt="Davi-AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     </p>
-</div>
+</div> 
+-->
+## 🛠️ Stack principal
+
+![React](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite&theme=dark)
+![Back-end](https://skillicons.dev/icons?i=nodejs,java,spring&theme=dark)
+![Dados e Ferramentas](https://skillicons.dev/icons?i=postgres,mongodb,docker,git,gitlab&theme=dark)
+
+**Estudando agora:**
+
+![Estudando](https://skillicons.dev/icons?i=py,r,php,angular,vue,aws&theme=dark)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+
+
   
-  ##
+  ## Contato
   
-  <div> 
-  <a href="https://www.instagram.com/laster_gates" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@lastergates4804" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/laster_gates" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <div>
   <a href="https://www.linkedin.com/in/marcos-davi-a56202212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+
+- ⚠ Esta é minha conta atual. Perdi o acesso à antiga (MarcosDaviDev).
