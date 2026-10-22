@@ -1,7 +1,6 @@
 # Olá, sou Marcos Davi 👋 
 
 **Desenvolvedor Full Stack Júnior** | Graduado em Análise e Desenvolvimento de Sistemas
-📍 Brasil 
 
 Construo aplicações web do front ao back, com foco em **React** e **[Node.js / Java com Spring Boot]**.
 <!--
